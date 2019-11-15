@@ -1,6 +1,8 @@
 # bloc_learning
 
-A new Flutter project.
+This project is used to learn about the bloc state management pattern.
+
+The learning  resource used is  this [youtube](youtu.be/hTExlt1nJZI) video.
 
 ## Getting Started
 
