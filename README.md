@@ -2,9 +2,15 @@
 
 This project is used to learn about the bloc state management pattern.
 
-The learning  resource used is  this [youtube](youtu.be/hTExlt1nJZI) video.
+The learning  resource used is  this [youtube](https://www.youtube.com/watch?feature=youtu.be&v=hTExlt1nJZI) video.
 
-## Getting Started
+## Flutter environment setup:
+
+- Flutter version : 1.10.7(beta channel)
+- Code editor : vscode
+- VSCODE useful extensions for bloc : Bloc by Felix Angelov
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
